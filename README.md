@@ -42,7 +42,7 @@ The focus is on the layout, making sure it adjusts across devices of various siz
 * Persistence of bookmarks after quitting app
 
 ### Screencast
-[![Screencast video Gallery Demo](https://img.youtube.com/vi/gJTHWB1iXPs/0.jpg)](https://youtu.be/gJTHWB1iXPs)
+[![Screencast video Gallery Demo](https://img.youtube.com/vi/gJTHWB1iXPs/0.jpg)](https://www.youtube.com/watch?v=gJTHWB1iXPs&feature=youtu.be)
 
 ### Screenshot Images
 
